@@ -1,0 +1,21 @@
+﻿  crypto_wrapper_openssl.cpp
+D:\Desktop\Satshil\intel_stuff\first Custom_protocol\udp_party\crypto_wrapper_openssl.cpp(52,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Desktop\Satshil\intel_stuff\first Custom_protocol\udp_party\crypto_wrapper_openssl.cpp(79,23): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Desktop\Satshil\intel_stuff\first Custom_protocol\udp_party\crypto_wrapper_openssl.cpp(113,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Desktop\Satshil\intel_stuff\first Custom_protocol\udp_party\crypto_wrapper_openssl.cpp(114,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Desktop\Satshil\intel_stuff\first Custom_protocol\udp_party\crypto_wrapper_openssl.cpp(115,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Desktop\Satshil\intel_stuff\first Custom_protocol\udp_party\crypto_wrapper_openssl.cpp(148,7): warning C4101: 'mac': unreferenced local variable
+D:\Desktop\Satshil\intel_stuff\first Custom_protocol\udp_party\crypto_wrapper_openssl.cpp(239,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Desktop\Satshil\intel_stuff\first Custom_protocol\udp_party\crypto_wrapper_openssl.cpp(245,118): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Desktop\Satshil\intel_stuff\first Custom_protocol\udp_party\crypto_wrapper_openssl.cpp(350,10): warning C4005: 'DhContext': macro redefinition
+D:\Desktop\Satshil\intel_stuff\first Custom_protocol\udp_party\crypto_wrapper_openssl.cpp(339,7): error C4996: 'DH_new': Since OpenSSL 3.0
+D:\Desktop\Satshil\intel_stuff\first Custom_protocol\udp_party\crypto_wrapper_openssl.cpp(345,7): error C4996: 'DH_set0_pqg': Since OpenSSL 3.0
+D:\Desktop\Satshil\intel_stuff\first Custom_protocol\udp_party\crypto_wrapper_openssl.cpp(352,7): error C4996: 'DH_generate_key': Since OpenSSL 3.0
+D:\Desktop\Satshil\intel_stuff\first Custom_protocol\udp_party\crypto_wrapper_openssl.cpp(357,11): error C4996: 'DH_get0_pub_key': Since OpenSSL 3.0
+D:\Desktop\Satshil\intel_stuff\first Custom_protocol\udp_party\crypto_wrapper_openssl.cpp(381,3): error C4996: 'DH_free': Since OpenSSL 3.0
+D:\Desktop\Satshil\intel_stuff\first Custom_protocol\udp_party\crypto_wrapper_openssl.cpp(393,52): warning C4267: 'argument': conversion from 'size_t' to 'long', possible loss of data
+D:\Desktop\Satshil\intel_stuff\first Custom_protocol\udp_party\crypto_wrapper_openssl.cpp(400,13): error C4996: 'EVP_PKEY_get1_RSA': Since OpenSSL 3.0
+D:\Desktop\Satshil\intel_stuff\first Custom_protocol\udp_party\crypto_wrapper_openssl.cpp(403,7): error C4996: 'RSA_check_key': Since OpenSSL 3.0
+D:\Desktop\Satshil\intel_stuff\first Custom_protocol\udp_party\crypto_wrapper_openssl.cpp(405,4): error C4996: 'RSA_free': Since OpenSSL 3.0
+D:\Desktop\Satshil\intel_stuff\first Custom_protocol\udp_party\crypto_wrapper_openssl.cpp(409,3): error C4996: 'RSA_free': Since OpenSSL 3.0
+D:\Desktop\Satshil\intel_stuff\first Custom_protocol\udp_party\crypto_wrapper_openssl.cpp(571,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data

@@ -1,0 +1,15 @@
+﻿  client.cpp
+  client_session.cpp
+  crypto_wrapper_empty.cpp
+  crypto_wrapper_mbedtls.cpp
+  crypto_wrapper_openssl.cpp
+  eliza.cpp
+  main.cpp
+  server.cpp
+  server_session.cpp
+  session.cpp
+  sockets.cpp
+  types.cpp
+  utils.cpp
+  Generating Code...
+  udp_party.vcxproj -> D:\Desktop\Satshil\intel_stuff\Custom_protocol\udp_party\x64\Debug\udp_party.exe
